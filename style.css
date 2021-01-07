@@ -1,0 +1,66 @@
+body{
+    font-family: 'Lato', sans-serif;
+    
+}
+h1{
+    font-size: 50px;
+}
+.name-color{
+    color: rgba(211, 0, 148, 0.897);
+}
+.half-side{
+    width: 40%;
+    float: left;
+    margin-left: 5%;
+    padding-left: 2%;
+}
+.half-side img{
+    width: 100%;
+}
+
+.link-button{
+    text-decoration: none;
+    background:violet;
+    padding: 10px 20px;
+    border-radius: 5px;
+    color: white;
+    font-weight: 700;
+
+}
+.single-work{
+    box-shadow: 10px 10px 20px gray;
+    border-radius: 10px;
+    height: 60%;
+    padding: 10px;
+}
+.half-1{
+    float: left;
+    width: 27%;
+    margin-left: 5%;
+}
+.half-2{
+    float: left;
+    width: 27%;
+    margin-left: 2%;
+}
+.half-3{
+    float:right;
+    width: 27%;
+    margin-right: 5%;
+}
+section{
+    height: 600px;
+}
+.working-area{
+    text-align: center;
+}
+.banner{
+    background-image: url("images/image3.png.png");
+    background-repeat: no-repeat;
+    background-size: 60%;
+    background-position: center;
+}  
+footer{
+    text-align: center;
+    font-size: 20px;
+} 
